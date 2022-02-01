@@ -14,7 +14,7 @@ and open the template in the editor.
         
         print("Su Nombre es: ".$_POST["nombre"]."<br>");
 	print("Su Apellido es: ".$_POST["apellido"]);
-        // put your code here
+        // put your code here solo agrege unas palabras
         ?>
     </body>
 </html>
